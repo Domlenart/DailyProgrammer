@@ -1,6 +1,7 @@
-import praw
 import os
 
+import praw
+import html2text
 
 CHALLENGES_FOLDER = os.path.join(os.path.dirname(os.path.realpath(__file__)), '..', 'challenges')
 CHALLENGE_TYPES = ['easy', 'intermediate', 'hard', 'practical exercise', 'weekly', 'difficult']
@@ -29,8 +30,7 @@ def find_new_challenges():
         if challenge_type and challenge_num:
             if not challenge_exists(challenge_type, challenge_num):
                 print('Found new {} challenge #{}'.format(challenge_type, challenge_num))
-                make_challenge_file(challenge_type, challenge_num, challenge_text=challenge.selftext)
-
+                make_challenge_file(challenge_type, challenge_num, challenge_text=challenge.selftext_html)
 
 
 def get_new_posts():
@@ -52,16 +52,20 @@ def extract_challenge_difficulty_and_number(post):
         challenge_type = challenge_type.pop()
         challenge_num = challenge_num.pop()
     else:
-        print('Found undefined challenge with title: {}'.format(post.title))
+        print('Found undefined challenge with title: {} \n{}\n'.format(post.title, post.url))
 
     return challenge_type, challenge_num
 
 
 def challenge_exists(diff, challenge_num):
-    return os.path.exists(os.path.join(CHALLENGES_FOLDER, diff, challenge_num+'.txt'))
+    return os.path.exists(os.path.join(CHALLENGES_FOLDER, diff, challenge_num, 'description.txt'))
 
 
 def make_challenge_file(diff, challenge_num, challenge_text):
+    textifier = html2text.HTML2Text(bodywidth=55)
+    textifier.mark_code = True
+    textifier.single_line_break = True
+    wrapped_text = textifier.handle(challenge_text)
 
     try:
         os.mkdir(os.path.join(CHALLENGES_FOLDER, diff, challenge_num))
@@ -71,8 +75,8 @@ def make_challenge_file(diff, challenge_num, challenge_text):
     filename = 'description.txt'.format(challenge_num)
     file_path = os.path.join(CHALLENGES_FOLDER, diff, challenge_num, filename)
 
-    with open(file_path, 'w') as f:
-        f.writelines(challenge_text)
+    with open(file_path, 'w+') as f:
+        f.writelines(wrapped_text)
 
 
 if __name__ == '__main__':
