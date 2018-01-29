@@ -6,5 +6,4 @@ def test_answer(mocker):
     mocker.patch('builtins.input', new=m)
     data = get_user_data(log=False)
     assert data == 'Your name is X, you are 25 years old, and your username is Y'
-    print(data)
 
