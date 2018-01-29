@@ -30,9 +30,7 @@ def find_new_challenges():
             if not challenge_exists(challenge_type, challenge_num):
                 print('Found new {} challenge #{}'.format(challenge_type, challenge_num))
                 make_challenge_file(challenge_type, challenge_num, challenge_text=challenge.selftext)
-            else:
-                print('Challenge list is up to date.')
-                break
+
 
 
 def get_new_posts():
@@ -65,8 +63,13 @@ def challenge_exists(diff, challenge_num):
 
 def make_challenge_file(diff, challenge_num, challenge_text):
 
-    filename = '{}.txt'.format(challenge_num)
-    file_path = os.path.join(CHALLENGES_FOLDER, diff, filename)
+    try:
+        os.mkdir(os.path.join(CHALLENGES_FOLDER, diff, challenge_num))
+    except FileExistsError:
+        pass
+
+    filename = 'description.txt'.format(challenge_num)
+    file_path = os.path.join(CHALLENGES_FOLDER, diff, challenge_num, filename)
 
     with open(file_path, 'w') as f:
         f.writelines(challenge_text)
