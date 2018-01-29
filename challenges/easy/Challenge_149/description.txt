@@ -1,0 +1,96 @@
+# _(Easy)_ : Disemvoweler
+
+Disemvoweling means removing the vowels from text. (For
+this challenge, the letters a, e, i, o, and u are
+considered vowels, and the letter y is not.) The idea
+is to make text difficult but not impossible to read,
+for when somebody posts something so idiotic you want
+people who are reading it to get extra frustrated.
+
+To make things even harder to read, we'll remove spaces
+too. For example, this string:
+
+[code]
+
+    two drums and a cymbal fall off a cliff
+    
+[/code]
+
+can be disemvoweled to get:
+
+[code]
+
+    twdrmsndcymblfllffclff
+    
+[/code]
+
+We also want to keep the vowels we removed around (in
+their original order), which in this case is:
+
+[code]
+
+    ouaaaaoai
+    
+[/code]
+
+# Formal Inputs & Outputs
+
+## Input description
+
+A string consisting of a series of words to disemvowel.
+It will be all lowercase (letters a-z) and without
+punctuation. The only special character you need to
+handle is spaces.
+
+## Output description
+
+Two strings, one of the disemvoweled text (spaces
+removed), and one of all the removed vowels.
+
+# Sample Inputs & Outputs
+
+## Sample Input 1
+
+[code]
+
+    all those who believe in psychokinesis raise my hand
+    
+[/code]
+
+## Sample Output 1
+
+[code]
+
+    llthswhblvnpsychknssrsmyhnd
+    aoeoeieeioieiaiea
+    
+[/code]
+
+## Sample Input 2
+
+[code]
+
+    did you hear about the excellent farmer who was outstanding in his field
+    
+[/code]
+
+## Sample Output 2
+
+[code]
+
+    ddyhrbtthxcllntfrmrwhwststndngnhsfld
+    ioueaaoueeeeaeoaouaiiiie
+    
+[/code]
+
+# Notes
+
+Thanks to [/u/abecedarius](/u/abecedarius) for
+inspiring this challenge on
+[/r/dailyprogrammer_ideas](/r/dailyprogrammer_ideas)!
+
+In principle it may be possible to reconstruct the
+original text from the disemvoweled text. If you want
+to try it, check out this week's Intermediate
+challenge!
+

@@ -58,22 +58,24 @@ def extract_challenge_difficulty_and_number(post):
 
 
 def challenge_exists(diff, challenge_num):
-    return os.path.exists(os.path.join(CHALLENGES_FOLDER, diff, challenge_num, 'description.txt'))
+    return os.path.exists(os.path.join(CHALLENGES_FOLDER, 'Challenge_'+diff, challenge_num, 'description.txt'))
 
 
 def make_challenge_file(diff, challenge_num, challenge_text):
     textifier = html2text.HTML2Text(bodywidth=55)
     textifier.mark_code = True
     textifier.single_line_break = True
+    textifier.wrap_links = True
+
     wrapped_text = textifier.handle(challenge_text)
 
     try:
-        os.mkdir(os.path.join(CHALLENGES_FOLDER, diff, challenge_num))
+        os.mkdir(os.path.join(CHALLENGES_FOLDER, diff, 'Challenge_'+challenge_num))
     except FileExistsError:
         pass
 
     filename = 'description.txt'.format(challenge_num)
-    file_path = os.path.join(CHALLENGES_FOLDER, diff, challenge_num, filename)
+    file_path = os.path.join(CHALLENGES_FOLDER, diff, 'Challenge_'+challenge_num, filename)
 
     with open(file_path, 'w+') as f:
         f.writelines(wrapped_text)

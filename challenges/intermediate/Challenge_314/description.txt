@@ -1,0 +1,67 @@
+# Description
+
+We've explored the concept of string rotations before
+as [garland
+words](https://www.reddit.com/r/dailyprogrammer/comments/3d4fwj/20150713_challenge_223_easy_garland_words/?ref=search_posts).
+Mathematically we can define them as a string _s_ =
+_uv_ is said to be a rotation of _t_ if _t_ = _vu_. For
+example, the string 0011001 is a rotation of 0100110,
+where _u_ = 00110 and _v_ = 01.
+
+Today we're interested in _lexicographically minimal
+string rotation_ or lexicographically least circular
+substring, the problem of finding the rotation of a
+string possessing the lowest lexicographical order of
+all such rotations. Finding the lexicographically
+minimal rotation is useful as a way of normalizing
+strings.
+
+# Input Description
+
+You'll be given strings, one per line. Example:
+
+[code]
+
+    aabbccddbbaabb
+    
+[/code]
+
+# Output Description
+
+Your program should solve the lexicographically minimal
+string rotation and produce the size of the substring
+to move and the resulting string. Example:
+
+[code]
+
+    10 aabbaabbccddbb
+    
+[/code]
+
+Which is, in Python parlance, `"aabbccddbbaabb"[10:] +
+"aabbccddbbaabb"[:10]`.
+
+# Challenge Input
+
+[code]
+
+    onion
+    bbaaccaadd
+    alfalfa
+    weugweougewoiheew
+    pneumonoultramicroscopicsilicovolcanoconiosis
+    
+[/code]
+
+# Challenge Output
+
+[code]
+
+    2 ionon
+    2 aaccaaddbb
+    6 aalfalf
+    14 eewweugweougewoih
+    12 amicroscopicsilicovolcanoconiosispneumonoultr
+    
+[/code]
+

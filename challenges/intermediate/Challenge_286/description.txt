@@ -1,0 +1,79 @@
+# Description
+
+Zeckendorf's theorem, named after Belgian mathematician
+Edouard Zeckendorf, is a theorem about the
+representation of integers as sums of Fibonacci
+numbers.
+
+Zeckendorf's theorem states that every positive integer
+can be represented uniquely as the sum of one or more
+distinct Fibonacci numbers in such a way that the sum
+does not include any two consecutive Fibonacci numbers.
+
+For example, the Zeckendorf representation of 100 is
+
+[code]
+
+    100 = 89 + 8 + 3
+    
+[/code]
+
+There are other ways of representing 100 as the sum of
+Fibonacci numbers – for example
+
+[code]
+
+    100 = 89 + 8 + 2 + 1
+    100 = 55 + 34 + 8 + 3
+    
+[/code]
+
+but these are not Zeckendorf representations because 1
+and 2 are consecutive Fibonacci numbers, as are 34 and
+55.
+
+Your challenge today is to write a program that can
+decompose a positive integer into its Zeckendorf
+representation.
+
+# Sample Input
+
+You'll be given a number _N_ on the first line, telling
+you how many lines to read. You 'll be given a list of
+_N_ positive integers, one per line. Example:
+
+[code]
+
+    3
+    4
+    100
+    30
+    
+[/code]
+
+# Sample Output
+
+Your program should emit the Zeckendorf representation
+for each of the numbers. Example:
+
+[code]
+
+    4 = 3 + 1
+    100 = 89 + 8 + 3 
+    30 = 21 + 8 + 1
+    
+[/code]
+
+# Challenge Input
+
+[code]
+
+    5
+    120
+    34
+    88
+    90
+    320
+    
+[/code]
+

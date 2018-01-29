@@ -1,0 +1,75 @@
+# Description
+
+Nearly everyone is familiar with the factorial operator
+in math. 5! yields 120 because factorial means
+"multiply successive terms where each are one less than
+the previous":
+
+[code]
+
+    5! -> 5 * 4 * 3 * 2 * 1 -> 120
+    
+[/code]
+
+Simple enough.
+
+Now let's reverse it. Could you write a function that
+tells us that "120" is "5!"?
+
+Hint: The strategy is pretty straightforward, just
+divide the term by successively larger terms until you
+get to "1" as the resultant:
+
+[code]
+
+    120 -> 120/2 -> 60/3 -> 20/4 -> 5/5 -> 1 => 5!
+    
+[/code]
+
+# Sample Input
+
+You'll be given a single integer, one per line.
+Examples:
+
+[code]
+
+    120
+    150
+    
+[/code]
+
+# Sample Output
+
+Your program should report what each number is as a
+factorial, or "NONE" if it's not legitimately a
+factorial. Examples:
+
+[code]
+
+    120 = 5!
+    150   NONE
+    
+[/code]
+
+# Challenge Input
+
+[code]
+
+    3628800
+    479001600
+    6
+    18
+    
+[/code]
+
+# Challenge Output
+
+[code]
+
+    3628800 = 10!
+    479001600 = 12!
+    6 = 3!
+    18  NONE
+    
+[/code]
+

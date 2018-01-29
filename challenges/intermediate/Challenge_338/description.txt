@@ -1,0 +1,200 @@
+# Description
+
+Our maze explorer has some wierd rules for finding the
+exit and we are going to tell him if it is possible
+with his rules to get out.
+
+Our explorer has the following rules:
+
+  * I always walk 6 blocks straight on and then turn 180° and start walking 6 blocks again
+  * If a wall is in my way I turn to the right, if that not possible I turn to the left and if that is not possible I turn back from where I came.
+
+# Formal Inputs & Outputs
+
+## Input description
+
+A maze with our explorer and the exit to reach
+
+Legend:
+
+[code]
+
+    > : Explorer looking East
+    < : Explorer looking West
+    ^ : Explorer looking North
+    v : Explorer looking south
+    E : Exit
+    # : wall
+      : Clear passage way (empty space)
+    
+[/code]
+
+### Maze 1
+
+[code]
+
+    #######
+    #>   E#
+    #######
+    
+[/code]
+
+### Maze 2
+
+[code]
+
+    #####E#
+    #<    #
+    #######
+    
+[/code]
+
+### Maze 3
+
+[code]
+
+    ##########
+    #>      E#
+    ##########
+    
+[/code]
+
+### Maze 4
+
+[code]
+
+    #####E#
+    ##### #
+    #>    #
+    ##### #
+    #######
+    
+[/code]
+
+### Maze 5
+
+[code]
+
+    #####E#
+    ##### #
+    ##### #
+    ##### #
+    ##### #
+    #>    #
+    ##### #
+    #######
+    
+[/code]
+
+### Challenge Maze
+
+[code]
+
+    #########
+    #E ######
+    ##      #
+    ##### # #
+    #>    ###
+    ##### ###
+    ##### ###
+    ##### ###
+    ##### ###
+    ##### ###
+    ##### ###
+    ######### 
+    
+[/code]
+
+### Challenge Maze 2
+
+[code]
+
+    #########
+    #E ######
+    ##      #
+    ## ## # #
+    ##### # #
+    #>    ###
+    ##### ###
+    ##### ###
+    ##### ###
+    ##### ###
+    ##### ###
+    ##### ###
+    ######### 
+    
+[/code]
+
+## Output description
+
+Whetter it is possible to exit the maze
+
+### Maze 1
+
+[code]
+
+    possible/true/yay
+    
+[/code]
+
+### Maze 2
+
+[code]
+
+    possible/true/yay
+    
+[/code]
+
+### Maze 3
+
+[code]
+
+    impossible/not true/darn it
+    
+[/code]
+
+### Maze 4
+
+[code]
+
+    possible/true/yay
+    
+[/code]
+
+### Maze 5
+
+[code]
+
+    impossible/not true/darn it
+    
+[/code]
+
+# Notes/Hints
+
+Making a turn does not count as a step
+
+# Several bonuses
+
+## Bonus 1:
+
+Generate your own (possible) maze.
+
+## Bonus 2:
+
+Animate it and make a nice gif out off it.
+
+## Bonus 3:
+
+Be the little voice in the head:
+
+Instead of turning each 6 steps, you should implement a
+way to not turn if that would means that you can make
+it to the exit.
+
+# Finally
+
+Have a good challenge idea?
+
+Consider submitting it to
+[/r/dailyprogrammer_ideas](/r/dailyprogrammer_ideas)
+
