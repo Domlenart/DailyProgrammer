@@ -1,5 +1,4 @@
-from .solution import get_user_data
-
+from ..easy.Challenge_1.solution import get_user_data
 
 def test_answer(mocker):
     m = mocker.MagicMock(side_effect=['X', '25', 'Y'])
