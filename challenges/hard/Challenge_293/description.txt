@@ -87,7 +87,7 @@ _very_ helpful to this challenge.
 **Bonus**
 
 Make your implementation take a city's "reach" into
-consideration. See linked slides for information.
+consideration. See linked slides for information. TODO
 add inputs that exercise implementations with reach.
 
 # Finally

@@ -32,7 +32,7 @@ second decimal digit.
 
 **Sample Inputs & Outputs:**
 
-... will have to solve this myself (which is pretty
+Todo... will have to solve this myself (which is pretty
 dang hard).
 
 **Notes:**
