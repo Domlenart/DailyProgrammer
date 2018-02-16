@@ -1,4 +1,4 @@
-from ..difficult.Challenge_1.solution import guess_number
+from challenges.difficult.Challenge_1.solution import guess_number
 
 
 def test_guess_number(capsys, mocker):
