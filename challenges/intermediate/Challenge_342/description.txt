@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/7gdsy4/20171129_challenge_342_intermediate_ascii85/
 # Description
 
 The basic need for a binary-to-text encoding comes from

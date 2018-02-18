@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/vmbq0/6262012_challenge_69_difficult/
 The ADFGVX cipher described in [today's intermediate
 problem](http://www.reddit.com/r/dailyprogrammer/comments/vmbnb/6262012_challenge_69_intermediate/)
 turned out to be quite a challenge for the Allied

@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/26b42x/5232014_challenge_163_hard_intersecting_lines_in/
 # Descripton:
 
 Given a typical x/y coordinate system we can plot

@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/x0vcj/7232012_challenge_80_intermediate_poker_hands/
 Your intermediate task today is to write a program that
 can identify a hand in poker.
 

@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/szz72/4302012_challenge_46_difficult/
 The prime HP reached starting from a number ,
 concatenating its prime factors, and repeating until a
 prime is reached. If you have doubts, refer the article

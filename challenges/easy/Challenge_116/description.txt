@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/164zvs/010713_challenge_116_easy_permutation_of_a_string/
 #  _(Easy)_ : Permutation of a string
 
 Write a function that prints all of the permutatons of

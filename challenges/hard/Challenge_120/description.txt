@@ -1,86 +1,106 @@
-#  _(Hard)_ : Bytelandian Exchange 3
+https://www.reddit.com/r/dailyprogrammer/comments/1asdd5/032213_challenge_120_hard_derpson_family_party/
+#  _(Hard)_ : Derpson Family Party
 
-Bytelandian Currency is coins with positive integers on
-them. (Don't worry about 0-valued coins because they're
-useless for this problem.) You have access to two
-peculiar money changing machines:
+The Derpsons are having a party for all their
+relatives. It will be the greatest party ever held,
+with hired musicians, a great cake and a magical
+setting with two long tables at an old castle. The only
+problem is that some of the guests can't stand each
+other, and cannot be placed at the same table.
 
-  * Machine 1 takes one coin of any value N. It pays back 3 coins of the values N/2, N/3 and N/4, rounded down. For example, if you insert a 19-valued coin, you get three coins worth 9, 6, and 4.
-  * Machine 2 takes two coins at once, one of any value N, and one of any positive value. It returns a single coin of value N+1.
+The Derpsons have created a list with pairs of enemies
+they know will start a fight if put together. The list
+is rather long so it is your mission to write a program
+to partition the guests into two tables.
 
-These two machines can be used together to get
-arbitrarily large amounts of money from a single coin,
-provided it's worth enough. If you can change an
-N-valued coin into an N-valued coin _and_ a 1-valued
-coin, you can repeat the process to get arbitrarily
-many 1-valued coins. **What 's the smallest N such that
-an N-valued coin can be changed into an N-valued coin
-and a 1-valued coin?**
-
-For instance, it can be done with a coin worth 897.
-Here's how. Use Machine 1 to convert it into coins
-worth 448, 299, and 224. Through repeated applications
-of Machine 1, the 299-valued coin can be converted into
-262 1-valued coins, and the 224-valued coin can be
-converted into 188 1-valued coins. At this point you
-have a 448-valued coin and 450 1-valued coins. By using
-Machine 2 449 times, you can make this into a
-897-valued coin and a 1-valued coin. To summarize this
-strategy:
-
-  * 897 -> 448 + 299 + 224 (Machine 1)
-  * 299 + 224 -> 450x1 (repeated Machine 1)
-  * 448 + 450x1 -> 897 + 1 (repeated Machine 2)
-
-But of course, 897 is not the lowest coin value that
-lets you pull this trick off. Your task is to find the
-lowest such value.
-
-[Here is a python script that will verify the steps of
-a correct solution (will not verify that it's optimal,
-though).](http://pastebin.com/JJuKJBLp)
-
-_Author: Cosmologicon_
+_Author: emilvikstrom_
 
 # Formal Inputs & Outputs
 
 ## Input Description
 
-None
+The input is a list of enemies for each guest (with
+empty lines for guests without enemies). Each guest
+have a number which is equivalent to the line number in
+the list.
+
+It is a newline-separated file (text file or standard
+in). Each line is a comma-separated (no space) list of
+positive integers. The first line of the input is
+called 1, the second 2 and so on. This input can be
+mapped to an array, _arr_ , indexed from 1 to _n_ (for
+_n_ guests) with lists of numbers. Each index of the
+array is a guest, and each number of each list is
+another guest that he or she cannot be placed with.
+
+If a number _e_ appears in the list _arr[k]_ , it means
+that _e_ and _k_ are sworn enemies. The lists are
+_symmetric_ so that _k_ will also appear in the list
+_arr[e]_.
 
 ## Output Description
 
-The lowest N such that an N-valued coin can be
-converted into an N-valued coin _and_ a 1-valued coin.
+A newline-separated list (on standard out or in a file)
+of guest numbers to put at the first table, followed by
+an empty line and then the guests to place at the
+second table. You may just return the two lists if
+printing is non-trivial in your language of choice.
+
+All guests must be placed at one of the two tables in
+such a way that any two people at the same table _are
+not_ enemies.
+
+The tables do not need to be the same size. The lists
+do not need to be sorted.
+
+Additionally, if the problem is impossible to solve,
+just output "No solution".
 
 # Sample Inputs & Outputs
 
 ## Sample Input
 
-None
+[code]
+
+    2,4
+    1,3
+    2
+    1
+    
+[/code]
 
 ## Sample Output
 
-None
+[code]
+
+    1
+    3
+    
+    4
+    2
+    
+[/code]
 
 # Challenge Input
 
-None
+This is the input list of enemies amongst the Derpsons:
+<http://lajm.eu/emil/dailyprogrammer/derpsons> (1.6
+MiB)
+
+Is there a possible seating?
 
 ## Challenge Input Solution
 
-None
+What is your answer? :-)
 
 # Note
 
-Please direct any questions about this challenge to
-[/u/Cosmologicon](/u/Cosmologicon)
+What problems do you think are the most fun? Help us
+out and discuss in
+<http://www.reddit.com/r/dailyprogrammer_ideas/comments/1alixl/what_kind_of_challenges_do_you_like/>
 
-**Bonus:** Now consider the case where Machine 1 is
-broken and will not give out any 1-valued coins (so for
-instance, putting a 5-valued coin into Machine 1 gives
-you a 2-valued coin and nothing else). In this case,
-what 's the smallest N such that an N-valued coin can
-be converted into an N-valued coin _and_ a 2-valued
-coin?
+We are sorry for having problems with the intermediate
+challenge posts, it was a bug in the robot managing the
+queue. There will be a new intermediate challenge next
+Wednesday.
 

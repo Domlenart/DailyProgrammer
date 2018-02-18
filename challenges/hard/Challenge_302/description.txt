@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/5t7l07/20170210_challenge_302_hard_ascii_histogram_maker/
 # Description
 
 Most of us are familiar with the histogram chart - a

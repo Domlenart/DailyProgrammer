@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/29umz8/742014_challenge_169_hard_convex_polygon_area/
 #  _(Hard)_ : Convex Polygon Area
 
 A convex polygon is a geometric polygon (ie. sides are

@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/4ojbgq/20160617_challenge_271_hard_formatting_j_code/
 J code can be written like basic/pascal/fortran.
 
 Challenge today is to convert between 2 or 4 format

@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/rl3g1/3302012_challenge_33_intermediate/
 Write a program that will help you play poker by
 telling you what kind of hand you have.
 

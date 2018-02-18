@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/ti5jn/5112012_challenge_51_difficult/
 Take a 7x7 grid of cells and remove the central cell
 (like a chessboard, but slightly smaller and with a
 hole in the middle), and it would look something [like

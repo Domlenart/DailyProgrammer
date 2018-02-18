@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/101m7y/9172012_challenge_99_easy_words_with_letters_in/
 How many words contained in [this
 dictionary](http://code.google.com/p/dotnetperls-
 controls/downloads/detail?name=enable1.txt) have their

@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/7ifbd5/20171208_challenge_343_hard_procedural_music/
 Today we have an open-ended challenge: write a program
 to generate music. The goal, like [this week's
 Intermediate

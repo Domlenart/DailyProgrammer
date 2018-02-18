@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/6k123x/20170629_challenge_321_intermediate_affine_cipher/
 # Description
 
 You are to output what you think is the solution to a

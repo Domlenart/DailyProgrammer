@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/4gzeze/20160429_challenge_264_hard_detecting_poetry_forms/
 # Description
 
 This is a variant of last week's intermediate challenge

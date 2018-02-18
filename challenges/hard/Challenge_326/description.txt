@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/6t0zua/20170811_challenge_326_hard_multifaceted_alphabet/
 # Description
 
 You are constructing a set of N alphabet blocks. The

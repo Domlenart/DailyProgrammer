@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/srp5q/4252012_challenge_44_difficult/
 Write a function that takes two arguments a and b, and
 finds all primes that are between a and a + b
 (specifically, find all primes p such that a ≤ p < a +

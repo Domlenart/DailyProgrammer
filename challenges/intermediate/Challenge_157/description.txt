@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/22k8hu/492014_challenge_157_intermediate_puzzle_cube/
 #  _(Intermediate)_ : Puzzle Cube Simulator
 
 You may be aware of puzzles such as the [Rubik's

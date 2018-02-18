@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/2c4ka3/7302014_challenge_173_intermediate_advanced/
 #  _(Intermediate)_ : Advanced Langton's Ant
 
 If you've done any work or research onto cellular

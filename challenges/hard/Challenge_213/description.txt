@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/358pfk/20150508_challenge_213_hard_stepstring_discrepancy/
 # Description
 
 Define the _discrepancy_ of a string of any two symbols

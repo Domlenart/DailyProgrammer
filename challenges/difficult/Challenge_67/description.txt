@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/vbr56/6202012_challenge_67_difficult/
 Let the s(N) be a random number generator defined as
 follows (at this point, this should probably be
 anointed the Offical Random Number Generator of

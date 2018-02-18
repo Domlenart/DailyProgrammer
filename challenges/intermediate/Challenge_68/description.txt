@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/vfyj6/6222012_challenge_68_intermediate/
 You are given numbers N and H. H=floors of the building
 N=number of telephones. Your must find the MINIMUM
 amount of throws you need(A) to find out the highest

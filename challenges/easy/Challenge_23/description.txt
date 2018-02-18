@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/quli5/3132012_challenge_23_easy/
 Input: a list
 
 Output: Return the two halves as different lists.

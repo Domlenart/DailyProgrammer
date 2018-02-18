@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/3ysdm2/20151230_challenge_247_intermediate_moving/
 #  _(Intermediate)_ : Moving (diagonally) Up in Life
 
 Imagine you live on a grid of characters, like the one

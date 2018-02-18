@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/tux8f/5192012_challenge_54_easy/
 A transposition cipher we'll call the "matrix cipher"
 can be defined as follows: write each character in the
 text that you want to encrypt in a matrix of some

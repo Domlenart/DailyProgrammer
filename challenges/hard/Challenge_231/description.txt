@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/3kj1v9/20150911_challenge_231_hard_eight_husbands_for/
 # Description
 
 For a set of men { _A,B,...,Z_ } and a set of women {

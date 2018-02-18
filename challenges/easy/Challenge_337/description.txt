@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/784fgr/20171023_challenge_337_easy_minimize_maximize/
 # Description
 
 This challenge is about finding minimums/maximums. The

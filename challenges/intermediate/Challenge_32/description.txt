@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/rhs8i/3282012_challenge_32_intermediate/
 [Tower of
 Hanoi](http://en.wikipedia.org/wiki/Tower_of_Hanoi) is
 a famous problem.

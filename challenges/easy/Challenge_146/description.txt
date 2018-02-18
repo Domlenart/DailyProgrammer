@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/1tixzk/122313_challenge_146_easy_polygon_perimeter/
 #  _(Easy)_ : Polygon Perimeter
 
 [A Polygon](http://en.wikipedia.org/wiki/Polygon) is a

@@ -1,40 +1,111 @@
-# Description:
+https://www.reddit.com/r/dailyprogrammer/comments/2ptrmp/20141219_challenge_193_easy_acronym_expander/
+# Description
 
-An international shipping company is trying to figure
-out how to manufacture various types of containers.
-Given a volume they want to figure out the dimensions
-of various shapes that would all hold the same volume.
+During online gaming (or any video game that requires
+teamwork) , there is often times that you need to speak
+to your teammates. Given the nature of the game, it may
+be inconvenient to say full sentences and it's for this
+reason that a lot of games have acronyms in place of
+sentences that are regularly said.
 
-# Input:
-
-A volume in cubic meters.
-
-# Output:
-
-Dimensions of containers of various types that would
-hold the volume. The following containers are possible.
-
-  * Cube
-  * Ball (Sphere)
-  * Cylinder
-  * Cone
-
-# Example Input:
-
-27
-
-# Example Output:
+Example
 
 [code]
 
-     Cube: 3.00m width, 3.00m, high, 3.00m tall
-     Cylinder: 3.00m tall, Diameter of 3.38m
-     Sphere: 1.86m Radius
-     Cone: 9.00m tall, 1.69m Radius
+    gg : expands to 'Good Game'
+    brb : expands to 'be right back'
     
 [/code]
 
-# Some Inputs to test.
+and so on...
 
-27, 42, 1000, 2197
+This is even evident on IRC's and other chat systems.
+
+However, all this abbreviated text can be confusing and
+intimidating for someone new to a game. They're not
+going to instantly know what 'gl hf all'(good luck have
+fun all) means. It is with this problem that you come
+in.
+
+You are tasked with converting an abbreviated sentence
+into its full version.
+
+# Inputs & Outputs
+
+## Input
+
+On console input you will be given a string that
+represents the abbreviated chat message.
+
+## Output
+
+Output should consist of the expanded sentence
+
+# Wordlist
+
+Below is a short list of acronyms paired with their
+meaning to use for this challenge.
+
+  * lol - laugh out loud
+  * dw - don't worry
+  * hf - have fun
+  * gg - good game
+  * brb - be right back
+  * g2g - got to go
+  * wtf - what the fuck
+  * wp - well played
+  * gl - good luck
+  * imo - in my opinion
+
+# Sample cases
+
+## input
+
+[code]
+
+    wtf that was unfair
+    
+[/code]
+
+## output
+
+[code]
+
+    'what the fuck that was unfair'
+    
+[/code]
+
+## input
+
+[code]
+
+    gl all hf
+    
+[/code]
+
+## output
+
+[code]
+
+    'good luck all have fun'
+    
+[/code]
+
+# Test case
+
+## input
+
+[code]
+
+    imo that was wp. Anyway I've g2g
+    
+[/code]
+
+## output
+
+[code]
+
+    ????
+    
+[/code]
 

@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/sobna/4232012_challenge_42_easy/
 Write a program that prints out the lyrics for "Ninety-
 nine bottles of beer", "Old McDonald had a farm" or "12
 days of Christmas".

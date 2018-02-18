@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/rg1vv/3272012_challenge_31_easy/
 Write a function that takes two base-26 numbers in
 which digits are represented by letters with A=0, B=1,
 … Z=25 and returns their product using the same

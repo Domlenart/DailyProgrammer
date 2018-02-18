@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/149khi/1242012_challenge_114_intermediate_shortest_word/
 Given any two words from [this list of 3,807 four-
 letter words](http://pastebin.com/zY4Xt7iB), output a
 [word

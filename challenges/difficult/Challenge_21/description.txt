@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/qp4jv/392012_challenge_21_difficult/
 We'd like to write a list of people, ordered so that no
 one appears in the list before anyone he or she is less
 smart than.

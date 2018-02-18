@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/uh040/622012_challenge_59_difficult/
 Two strings A and B are said to have a _common
 substring_ called C, if C is embedded somewhere in both
 A and B. For instance,  "ble" is a common substring for

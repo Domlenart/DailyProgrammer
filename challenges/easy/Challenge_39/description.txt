@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/s6bas/4122012_challenge_39_easy/
 You are to write a function that displays the numbers
 from 1 to an input parameter n, one per line, except
 that if the current number is divisible by 3 the

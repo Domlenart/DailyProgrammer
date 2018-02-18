@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/17zn6g/020613_challenge_120_intermediate_base_conversion/
 #  _(Intermediate)_ : Base Conversion Words
 
 Given as input an arbitrary string and base (integer),

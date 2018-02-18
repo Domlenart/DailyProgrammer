@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/5nr86m/20170113_challenge_299_hard_functional_graph/
 This is the same problem as
 [monday's](https://www.reddit.com/r/dailyprogrammer/comments/5mzr6x/20170109_challenge_298_hard_functional_maze/),
 except the input format instead of being a 2d maze, is

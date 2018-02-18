@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/rr526/432012_challenge_35_intermediate/
 Imagine you are given a function flip() that returns a
 random bit (0 or 1 with equal probability). Write a
 program that uses flip to generate a random number in

@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/2j5929/10132014_challenge_184_easy_smart_stack_list/
 # Description:
 
 We all know the famous link list. We can use these to

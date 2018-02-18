@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/759fha/20171009_challenge_335_easy_consecutive_distance/
 # Description
 
 We'll call the consecutive distance rating of an

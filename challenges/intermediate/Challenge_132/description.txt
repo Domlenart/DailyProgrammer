@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/1kqxz9/080813_challenge_132_intermediate_tiny_assembler/
 #  _(Intermediate)_ : Tiny Assembler
 
 _Tiny_ , a very simple fictional computer architecture,

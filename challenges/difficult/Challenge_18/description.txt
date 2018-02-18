@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/qit4p/352012_challenge_18_difficult/
 Write a program that draws a [square
 spiral](http://10binary.deviantart.com/art/square-
 spiral-203786602). You can print out this spiral in

@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/398mtv/20150610_challenge_218_intermediate_generating/
 # Description
 
 A polyomino is a collection of cells (equal-sized

@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/t33vn/522012_challenge_47_intermediate/
 Given a string containing the English word for one of
 the single-digit numbers, return the number _without
 using any of the words in your code_. Examples:

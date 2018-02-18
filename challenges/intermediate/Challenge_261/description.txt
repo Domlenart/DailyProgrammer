@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/4dmm44/20160406_challenge_261_intermediate_rearranged/
 # Description
 
 An NxN magic square is an NxN grid of the numbers 1

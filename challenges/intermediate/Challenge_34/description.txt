@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/rmmqx/3312012_challenge_34_intermediate/
 Your task today is show the implementation of two
 sorting algorithms [Stooge
 sort](http://en.wikipedia.org/wiki/Stooge_sort) and

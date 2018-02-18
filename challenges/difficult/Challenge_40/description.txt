@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/schnp/4162012_challenge_40_difficult/
 Make a function that generates an array of 1,000
 2-dimensional points, where both the x-coordinate and
 the y-coordinate are between 0.0 and 1.0. So (0.735,

@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/t33vo/522012_challenge_47_difficult/
 If you were to generate all permutations of the first
 three letters of the alphabet ("a", "b" and "c") and
 then sort them, you would get the following list of 6

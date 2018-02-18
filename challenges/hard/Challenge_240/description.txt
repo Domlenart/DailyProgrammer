@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/3snorf/20151113_challenge_240_hard_kenken_solver/
 # Description
 
 KenKen are trademarked names for a style of arithmetic

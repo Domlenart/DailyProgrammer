@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/2qxrtk/20141231_challenge_195_intermediate_math_dice/
 # Description:
 
 Math Dice is a game where you use dice and number

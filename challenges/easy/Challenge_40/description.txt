@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/schtf/4162012_challenge_40_easy/
 Print the numbers from 1 to 1000 without using any loop
 or conditional statements.
 

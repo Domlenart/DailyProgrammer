@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/683w4s/20170428_challenge_312_hard_text_summarizer/
 # Description
 
 Automatic summarization is the process of reducing a

@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/49o3ho/20160309_challenge_257_intermediate_word_squares/
 # Description
 
 A word square is a type of acrostic, a word puzzle. In

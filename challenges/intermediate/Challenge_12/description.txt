@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/pxrzh/2202012_challenge_12_intermediate/
 Create a program that will factor a number. for
 example:
 

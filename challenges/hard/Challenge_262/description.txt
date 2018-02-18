@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/4ey6as/20160415_challenge_262_hard_4x4_puzzle_swapper/
 # Description
 
 You have a 4x4 grid containing pieces numbered 1 to 16,

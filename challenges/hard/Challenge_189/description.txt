@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/2n11w8/20141121_challenge_189_hard_write_a_quine/
 # Description:
 
 A Quine is a very interesting little program that does

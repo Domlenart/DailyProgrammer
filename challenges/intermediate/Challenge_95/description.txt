@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/za9tu/9032012_challenge_95_intermediate_filler_text/
 Your intermediate task today is to write a function
 that can create "filler text", i.e. text that doesn't
 actually mean anything, but from a distance could

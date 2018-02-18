@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/4paxp4/20160622_challenge_272_intermediate_dither_that/
 # Description
 
 [Dithering](https://en.wikipedia.org/wiki/Dither) is

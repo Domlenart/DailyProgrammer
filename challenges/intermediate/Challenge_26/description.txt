@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/qzip3/3162012_challenge_26_intermediate/
 An employer wants you to store some information about
 his employees in an easy to read list form. He wants
 you to input the names, ages, and the pay of his

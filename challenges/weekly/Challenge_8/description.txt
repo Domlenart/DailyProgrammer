@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/2emixb/weekly_8_sorting_algorithms/
 # Weekly Topic:
 
 Often times we need to sort the data. A basic

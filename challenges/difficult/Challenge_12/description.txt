@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/pxsew/2202012_challenge_12_difficult/
 Write a program which will take string inputs "A", "B",
 "C", "D", "E", "F", and "G", and make the corresponding
 notes, in any method of your choosing.

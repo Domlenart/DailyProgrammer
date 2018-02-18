@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/yj32c/8202012_challenge_89_intermediate_printing/
 [A while
 ago](http://www.reddit.com/r/dailyprogrammer/comments/ti5ji/5112012_challenge_51_intermediate/)
 we had some fun with the very peculiar [Brainfuck

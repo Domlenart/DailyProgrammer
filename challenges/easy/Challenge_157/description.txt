@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/22fgs1/472014_challenge_157_easy_the_winning_move_xgames/
 # Description:
 
 The world championship in Tic Tac Toe, The X-Games is

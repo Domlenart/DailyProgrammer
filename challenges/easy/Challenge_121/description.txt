@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/19mn2d/030413_challenge_121_easy_bytelandian_exchange_1/
 #  _(Easy)_ : Bytelandian Exchange 1
 
 Bytelandian Currency is made of coins with integers on

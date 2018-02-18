@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/2k7mnn/10242014_challenge_185_intermediate_to_hard_roots/
 #  **(Intermediate to Hard)** : Roots of a Polynomial
 
 In mathematics, a polynomial is a form of expression.

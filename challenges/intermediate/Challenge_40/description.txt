@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/schqq/4162012_challenge_40_intermediate/
 Write a program that computes the [Kaprekar
 chain](http://mathworld.wolfram.com/KaprekarRoutine.html)
 for a given starting number, and compute the longest

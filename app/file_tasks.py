@@ -6,7 +6,7 @@ CHALLENGE_TYPE_FOLDERS = [folder for folder in os.listdir(TASK_FOLDER_PATH) if '
 
 
 def get_challenge_status():
-    challenge = namedtuple('challenge', 'id difficulty completed tested text')
+    challenge = namedtuple('challenge', 'id difficulty completed tested text link')
 
     for challenge_type in CHALLENGE_TYPE_FOLDERS:
         challenge_type_dir = os.path.join(TASK_FOLDER_PATH, challenge_type)
@@ -23,12 +23,15 @@ def get_challenge_status():
                 with open(os.path.join(challenge_type_dir, challenge_folder, 'description.txt')) as f:
                     text = f.read()
 
-                #Strip special chars
+                link = text.splitlines()[0]
+
+                # Strip special chars and beginning newline
                 text = ''.join([letter for letter in text if ord(letter) < 65536])
+                text = text.replace(link, '').strip()
 
                 if 'solution.py' in os.listdir(os.path.join(challenge_type_dir, challenge_folder)):
                     completed = True
                 if 'test' in '\t'.join(os.listdir(os.path.join(challenge_type_dir, challenge_folder))):
                     tested = True
 
-                yield challenge(cid, challenge_type, completed, tested, text)
+                yield challenge(cid, challenge_type, completed, tested, text, link)

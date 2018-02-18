@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/51wg0j/20160909_challenge_282_hard_hidato/
 # Description
 
 From [wikipedia](https://en.wikipedia.org/wiki/Hidato)

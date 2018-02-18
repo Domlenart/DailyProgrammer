@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/1mby3b/091313_challenge_127_hard_language_detection/
 #  _(Hard)_ : Language Detection
 
 You are part of the newly formed ILU team, whose

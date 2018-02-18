@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/ywm08/8272012_challenge_92_intermediate_rubiks_cube/
 Your intermediate task today is to build a simple
 simulator of a [Rubik's
 Cube](http://en.wikipedia.org/wiki/Rubik%27s_Cube). The

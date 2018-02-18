@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/wa10w/792012_challenge_74_intermediate/
 In [his paper describing the so-called "Dancing Links"
 algorithm](http://arxiv.org/abs/cs/0011047) for solving
 exact cover problems (press the PDF link to see the

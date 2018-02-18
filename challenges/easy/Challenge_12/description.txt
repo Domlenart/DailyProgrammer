@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/pxs2x/2202012_challenge_12_easy/
 Write a small program that can take a string:
 
 "hi!"

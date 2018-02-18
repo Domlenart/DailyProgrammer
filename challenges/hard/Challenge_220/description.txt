@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/3b668g/20150626_challenge_220_hard_substitution/
 #  _(Hard)_ : Substitution Cryptanalysis
 
 A [substitution

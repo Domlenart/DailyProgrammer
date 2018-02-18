@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/20l2it/17042014_challenge_153_easy_pascals_pyramid/
 #  _(Easy)_ : Pascal's Pyramid
 
 You may have seen Pascal's Triangle before. It has been

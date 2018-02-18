@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/3104wu/20150401_challenge_208_intermediate_ascii/
 #  _(Intermediate)_ : ASCII Gradient Generator
 
 A linear colour gradient is where an image transitions

@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/tux8s/5192012_challenge_54_difficult/
 For this challenge, make a program that finds the
 [determinant of a square
 matrix](http://en.wikipedia.org/wiki/Determinant#Calculation).

@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/x0vj7/7232012_challenge_80_difficult_multiword_anagrams/
 In [today's easy
 problem](http://www.reddit.com/r/dailyprogrammer/comments/x0v3e/7232012_challenge_80_easy_anagrams/),
 we investigated anagrams that were single words.

@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/2ovt2i/20141210_challenge_192_intermediate_markov_chain/
 #  **(Intermediate)** : Markov Chain Error Detection
 
 A Markov process describes a system where the

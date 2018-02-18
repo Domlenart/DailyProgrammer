@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/socdy/4232012_challenge_42_difficult/
 A _simple graph_ is a graph that allows only one edge
 between two vertices and no edges that start end end in
 the same vertex (usually called  "loops"). If a simple

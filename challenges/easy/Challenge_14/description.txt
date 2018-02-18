@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/q2v2k/2232012_challenge_14_easy/
 Input: list of elements and a block size k or some
 other variable of your choice
 

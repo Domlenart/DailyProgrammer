@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/pzobz/2212012_challenge_13_difficult/
 Create a rock-paper-scissors program, however, there
 should be no user input. the computer should play
 against itself. Make the program keep score, and for

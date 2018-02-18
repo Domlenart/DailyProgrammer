@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/tpxqc/5162012_challenge_53_intermediate/
 A simple pseudo-random number generator looks like
 this:
 

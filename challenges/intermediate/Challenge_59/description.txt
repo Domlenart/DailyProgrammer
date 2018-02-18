@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/uh03h/622012_challenge_59_intermediate/
 Given a binary matrix like this:
 
 [code]

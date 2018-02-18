@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/4anny5/challenge_258_intermediate_irc_responding_to/
 # Description
 
 In the last challenge we initiated a connection to an

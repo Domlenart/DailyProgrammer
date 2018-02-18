@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/4248hz/20160122_challenge_250_hard_evolving_salesmen/
 You must plan a route for a salesman to visit each of
 26 cities and then return home.
 

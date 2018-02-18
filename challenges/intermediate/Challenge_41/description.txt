@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/shpiq/4192012_challenge_41_intermediate/
 Write a program that will use the [FOIL
 method](http://www.algebrahelp.com/lessons/simplifying/foilmethod/pg2.htm)
 to solve multiplying binomials. Your program will

@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/r59e6/3202012_challenge_28_intermediate/
 A [tetrahedral
 number](http://en.wikipedia.org/wiki/Tetrahedral_number)
 is is a figurate number that represents a pyramid with

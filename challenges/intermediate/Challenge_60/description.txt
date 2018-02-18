@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/ukj5v/642012_challenge_60_intermediate/
 Write a program or a function that can print out
 arbitrarily sized smiley face in ascii art. The smiley
 face can be however you want, but the eyes can't be

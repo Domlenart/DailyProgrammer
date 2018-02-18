@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/q8ays/2272012_challenge_16_difficult/
 You all know about [O'Neill's
 algorithm](http://www.cs.hmc.edu/%7Eoneill/papers/Sieve-
 JFP.pdf)

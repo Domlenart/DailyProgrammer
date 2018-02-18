@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/1undyd/010714_challenge_147_easy_sport_points/
 #  _(Easy)_ : Sport Points
 
 You must write code that verifies the awarded points

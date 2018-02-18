@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/pv98f/2182012_challenge_10_easy/
 The exercise today asks you to validate a telephone
 number, as if written on an input form. Telephone
 numbers can be written as ten digits, or with dashes,

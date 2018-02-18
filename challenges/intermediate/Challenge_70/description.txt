@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/vsv3v/6292012_challenge_70_intermediate/
 Implement the
 [hyperoperator](http://en.wikipedia.org/wiki/Hyperoperation#Definition)
 as a function hyper(n, a, b), for non-negative integers

@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/qzig1/3162012_challenge_26_difficult/
 Create a piece of code that downloads an entire album
 from imgur. It should support multiple arguments. e.g.
 

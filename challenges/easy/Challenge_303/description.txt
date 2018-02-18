@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/5vb1wf/20170221_challenge_303_easy_ricochet/
 # Description
 
 Start with a grid _h_ units high by _w_ units wide. Set

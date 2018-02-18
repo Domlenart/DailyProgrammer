@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/2mlfxp/20141117_challenge_189_easy_hangman/
 We all know the classic game hangman, today we'll be
 making it. With the wonderful bonus that we are
 programmers and we can make it as hard or as easy as we

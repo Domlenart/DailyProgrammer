@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/r8a7x/3222012_challenge_29_difficult/
 Draw a line... except it must be your implementation of
 a line using only the ability to draw a point. Think
 implementing a line is too easy? Try it :). You can

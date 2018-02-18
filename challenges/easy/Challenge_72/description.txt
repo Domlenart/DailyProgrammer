@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/w1e7x/742012_challenge_72_easy/
 The one-dimensional simple cellular automata [Rule
 110](http://en.wikipedia.org/wiki/Rule_110) is the only
 such cellular automata currently known to be turing-

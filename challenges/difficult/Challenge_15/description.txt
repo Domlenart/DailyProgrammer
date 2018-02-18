@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/q4dz1/2242012_challenge_15_difficult/
 Write a pair of programs that communicate with one
 another through socket connections. AKA a client-server
 connection.

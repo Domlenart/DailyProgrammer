@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/2byh4e/weekly_4_variable_names/
 # Variable Names:
 
 We use variables a lot in our programs. Over the many

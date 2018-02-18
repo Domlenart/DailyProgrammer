@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/uo11f/662012_challenge_61_easy/
 The number 19 is can be represented [in
 binary](http://en.wikipedia.org/wiki/Binary_numeral_system)
 as 10011. Lets define the operation of "rotating a

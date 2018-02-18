@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/wa1b9/792012_challenge_74_difficult/
 Using the data-structure described in [today's
 intermediate
 problem](http://www.reddit.com/r/dailyprogrammer/comments/wa10w/792012_challenge_74_intermediate/),

@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/55zdxx/20161005_challenge_286_intermediate_zeckendorf/
 # Description
 
 Zeckendorf's theorem, named after Belgian mathematician

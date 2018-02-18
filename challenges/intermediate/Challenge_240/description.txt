@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/3sd86k/20151111_challenge_240_intermediate/
 This is a task of reading a small database, and
 querying it and processing results, or building a model
 from the data.

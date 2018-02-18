@@ -74,7 +74,7 @@ class MainWindow(tk.Tk):
             if challenge.tested:
                 tested = 'tested'
 
-            self.tree.insert('', 0, text='', values=[challenge.id, challenge.difficulty, challenge.text],
+            self.tree.insert('', 0, text='', values=[challenge.id, challenge.difficulty, challenge.text, challenge.link],
                              tags=(completion, tested))
 
     def update_challenges(self):
@@ -109,7 +109,7 @@ class MainWindow(tk.Tk):
         self.textfield.configure(state='disabled')
 
     def open_reddit_thread(self, _):
-        raise NotImplementedError
+        webbrowser.open(self.tree.item(self.tree.selection())['values'][3])
 
 if __name__ == '__main__':
     MainWindow().mainloop()

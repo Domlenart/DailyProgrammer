@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/36cyxf/20150518_challenge_215_easy_sad_cycles/
 #  _(Easy)_ : Sad Cycles
 
 Take a number, and add up the square of each digit.

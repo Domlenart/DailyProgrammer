@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/qlwys/372012_challenge_19_intermediate/
 Challenge #19 will use [The Adventures of Sherlock
 Holmes](http://www.gutenberg.org/cache/epub/1661/pg1661.txt)
 from [Project Gutenberg](http://www.gutenberg.org).

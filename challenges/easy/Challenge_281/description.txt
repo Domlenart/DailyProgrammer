@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/504rdh/20160829_challenge_281_easy_something_about_bases/
 # Description
 
 Numbers can be written in many kind of bases.

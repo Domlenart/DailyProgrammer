@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/vbr0z/6202012_challenge_67_easy/
 As we all know, when computers do calculations or store
 numbers, they don't use decimal notation like we do,
 they use binary notation. So for instance, when a

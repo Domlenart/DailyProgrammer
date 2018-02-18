@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/u0tdy/5232012_challenge_56_difficult/
 Arguably the worlds most famous fractal is the so-
 called [Mandelbrot
 set](http://en.wikipedia.org/wiki/Mandelbrot_set), but

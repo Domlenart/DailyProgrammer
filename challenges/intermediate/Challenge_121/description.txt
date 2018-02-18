@@ -1,63 +1,93 @@
-#  _(Intermediate)_ : Bytelandian Exchange 2
+https://www.reddit.com/r/dailyprogrammer/comments/1b3ka1/032713_challenge_121_intermediate_path_to/
+#  _(Intermediate)_ : Path to Philosophy
 
-_This problem uses the same money-changing device from
-Monday 's Easy challenge._
+Clicking on the first link in the main text of a
+Wikipedia article not in parentheses or italics, and
+then repeating the process for subsequent articles,
+usually eventually gets you to the Philosophy article.
+As of May 26, 2011, 94.52% of all articles in Wikipedia
+lead eventually to the article Philosophy. The rest
+lead to an article with no wikilinks or with links to
+pages that do not exist, or get stuck in loops. [Here's
+a Youtube video demonstrating this
+phenomenon](http://www.youtube.c%0Aom/watch?v=vehDe2lSptU).
 
-Bytelandian Currency is made of coins with integers on
-them. There is a coin for each non-negative integer
-(including 0). You have access to a peculiar money
-changing machine. If you insert a N-valued coin, it
-pays back 3 coins of the value N/2,N/3 and N/4, rounded
-down. For example, if you insert a 19-valued coin, you
-get three coins worth 9, 6, and 4. If you insert a
-2-valued coin, you get three coins worth 1, 0, and 0.
+Your goal is to write a program that will find the path
+from a given article to the Philosophy article by
+following the first link (not in parentheses, italics
+or tables) in the main text of the given article. Make
+sure you have caching implemented from the start so you
+only need to fetch each page once.
 
-This machine can potentially be used to make a profit.
-For instance, a 20-valued coin can be changed into
-three coins worth 10, 6, and 5, and 10+6+5 = 21.
-Through a series of exchanges, you're able to turn a
-1000-valued coin into a set of coins with a total value
-of 1370.
+You will then extend the program to do a depth-first
+search in search of the Philosophy article,
+backtracking if you get stuck and quitting only when
+you know there is no such path. The last thing you will
+do is generalise it to do a DFS towards _any_ goal
+article.
 
-Starting with a single N-valued coin, what's the
-maximum value you could get using this machine? Be able
-to handle very large N.
+Hint: Yes, there is a Wikipedia API. Feel free to use
+it.
 
-_Author: Thomas1122_
+The original formulation of this problem is found in
+the alternative text to [XKCD: Extended
+Mind](http://www.youtube.com/watch?v=vehDe2lSptU).
+
+_Author: nagasgura_
 
 # Formal Inputs & Outputs
 
 ## Input Description
 
-The value N of the coin you start with
+Two strings, both which are names of existing Wikipedia
+articles (in the Wikipedia language of your choice).
 
 ## Output Description
 
-The maximum total value of coins you can potentially
-exchange that coin for.
+A path of Wikipedia articles, each linked from the
+previous one, that leads from the start article to the
+end article.
+
+  * Links in parentheses, italics and tables should not be considered
+  * Links leading outside the main article namespace should not be considered
+  * Links are to be considered in the order they appear in an article
+  * The path should be created in a depth-first fashion
+  * You must implement article caching early on
+
+You choose the output datastructure yourself, or print
+to standard-out.
 
 # Sample Inputs & Outputs
 
 ## Sample Input
 
-1000
+  * From: Molecule
+  * To: Philosophy
 
 ## Sample Output
 
-1370
-
-# Challenge Input
-
-10000000000 (aka 1010 aka 10 billion)
-
-## Challenge Input Solution
-
-???
-
-# Note
-
-Hint: use recursion!
-
-Please direct questions about this challenge to
-[/u/Cosmologicon](/u/Cosmologicon)
+  * Molecule
+  * Atom
+  * Matter
+  * Invariant mass
+  * Energy
+  * Kinetic energy
+  * Physics
+  * Natural philosophy
+  * Philosophy # Challenge Input
+  * From: Asperger syndrome
+  * To: Logic ## Challenge Input Solution 
+    * Asperger syndrome
+    * Autism spectrum
+    * Pervasive developmental disorder
+    * Mental disorder
+    * Psychology
+    * Applied science
+    * Natural science
+    * Science
+    * Knowledge
+    * Fact
+    * Proof (truth)
+    * Necessity and sufficiency
+    * Logic # Note This challenge was originally posted to [/r/dailyprogrammer_ideas](/r/dailyprogrammer_ideas) Help us out by posting your own ideas!
 

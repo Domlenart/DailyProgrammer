@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/6aefs1/20170510_challenge_314_intermediate_comparing/
 # Description
 
 We've explored the concept of string rotations before

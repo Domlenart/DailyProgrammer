@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/4riubi/20160706_challenge_274_intermediate_calculating/
 # Description
 
 In combinatorial mathematics, a _k-ary_ De Bruijn

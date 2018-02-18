@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/q4bk1/2242012_challenge_15_intermediate/
 A 30x30 grid of squares contains 900 fleas, initially
 one flea per square. When a bell is rung, each flea
 jumps to an adjacent square at random (usually 4

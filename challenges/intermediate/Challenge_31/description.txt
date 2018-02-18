@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/rg25w/3272012_challenge_31_intermediate/
 The complexity c(n) of a whole number is the smallest
 possible sum of a set of whole numbers that can be
 combined to make n using only addition, multiplication,

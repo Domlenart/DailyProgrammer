@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/5zj7e4/20170315_challenge_306_intermediate_gray_code/
 # Description
 
 [Gray code](https://en.wikipedia.org/wiki/Gray_code),

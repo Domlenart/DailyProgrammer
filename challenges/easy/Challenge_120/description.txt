@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/17uw4s/020413_challenge_120_easy_log_throughput_counter/
 #  _(Easy)_ : Log throughput counter
 
 You are responsible for a search engine of a large

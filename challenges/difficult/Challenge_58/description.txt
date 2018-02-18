@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/u8jo6/5282012_challenge_58_difficult/
 A type of pseudo-random number generator is the so-
 called [lagged fibonacci
 generator](http://en.wikipedia.org/wiki/Lagged_fibonacci_generator),

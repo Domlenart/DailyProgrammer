@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/uw16v/6112012_challenge_63_intermediate/
 You can use the reverse(N, A) procedure defined in
 [today's easy
 problem](http://www.reddit.com/r/dailyprogrammer/comments/uw14f/6112012_challenge_63_easy/)

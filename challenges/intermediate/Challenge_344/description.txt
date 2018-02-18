@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/7jkfu5/20171213_challenge_344_intermediate_bankers/
 # Description:
 
 Create a program that will solve the banker’s

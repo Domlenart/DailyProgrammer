@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/3o36b6/20151009_challenge_235_hard_contiguous_chain/
 # Description
 
 Based on [Challenge #227 Contiguous

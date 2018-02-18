@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/rhrmx/3282012_challenge_32_easy/
 lets simulate a roulette wheel!  
 a program that takes as input your bet, and gives as
 output how much you won, with the appropriate

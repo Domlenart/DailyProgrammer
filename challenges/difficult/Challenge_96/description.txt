@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/zff9o/9062012_challenge_96_difficult_water_droplets/
 Your wet dog rand across your hardwood floor. It drops
 a series of water droplets randomly across the floor.
 The water droplets each land at particular positions on

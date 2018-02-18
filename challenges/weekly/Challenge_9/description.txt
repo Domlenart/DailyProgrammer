@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/2f6mo2/weekly_9_binary_trees/
 # Weekly 9:
 
 Binary trees are very interesting data structures. How

@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/54wihd/20160928_challenge_285_intermediate_cross/
 The goal of this challenge is to encode and decode
 records in a compact and/or efficient self contained
 manner. Because the more I type, the more confusing the

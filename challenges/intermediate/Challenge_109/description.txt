@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/12csm4/10302012_challenge_109_intermediate/
 **Description:**
 
 A palindrome is a string of characters that are read

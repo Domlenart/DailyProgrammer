@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/5d1l7v/20161115_challenge_292_easy_increasing_range/
 # **Description:**
 
 We are given a list of numbers in a "short-hand" range

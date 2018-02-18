@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/s6bab/4122012_challenge_39_difficult/
 Given a list of n words, create a program that can
 solve a word search. The word search would be a
 2-dimensional array of characters varying in sizes.

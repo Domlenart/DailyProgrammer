@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/2cyss3/8082014_challenge_174_hard_convex_hull_problem/
 #  _(Hard)_ : Convex Hull Problem
 
 I have [a collection of points, called

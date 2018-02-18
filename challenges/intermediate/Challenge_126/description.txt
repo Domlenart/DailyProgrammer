@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/1fcpnx/053013_challenge_126_intermediate_perfect_pth/
 #  _(Intermediate)_ : Perfect P'th Powers
 
 An integer X is a "perfect square power" if there is

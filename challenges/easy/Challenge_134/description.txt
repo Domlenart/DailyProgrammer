@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/1jtryq/080613_challenge_134_easy_ndivisible_digits/
 #  _(Easy)_ : N-Divisible Digits
 
 Write a program that takes two integers, N and M, and

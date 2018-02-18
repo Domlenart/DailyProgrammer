@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/2rye5u/20150110_challenge_196_hard_precedence_parsing/
 #  **(Hard)** : Precedence Parsing
 
 If you have covered algebra then you may have heard of

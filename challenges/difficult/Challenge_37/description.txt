@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/rzdjt/482012_challenge_37_difficult/
 Your task is to implement [Cornacchia’s
 algorithm](http://en.wikipedia.org/wiki/Cornacchia's_algorithm)
 and use it to demonstrate that all primes of the form

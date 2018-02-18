@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/60ibay/20170320_challenge_307_easy_base_255_part1/
 encoding a variable length binary data array can be
 done with a length encoding, or by one of the 4 methods
 in this challenge. Generally, a seperator value

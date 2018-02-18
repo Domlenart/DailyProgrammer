@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/38nhgx/20150605_challenge_217_practical_exercise_texscii/
 #  _(Practical Exercise)_ : TeXSCII
 
 LaTeX is a typesetting utility based on the TeX

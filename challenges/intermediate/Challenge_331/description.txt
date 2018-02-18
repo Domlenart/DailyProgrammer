@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/6zvjre/20170913_challenge_331_intermediate_sum_of_digits/
 # Description
 
 For some xn, find the sum of its digits. The solution

@@ -1,104 +1,105 @@
-#  _(Hard)_ : Robot Jousting
+https://www.reddit.com/r/dailyprogrammer/comments/1eyipq/052413_challenge_123_hard_snakefill/
+#  _(Hard)_ : Snake-Fill
 
-You are an expert in the new and exciting field of
-_Robot Jousting_! Yes, you read that right: robots that
-charge one another to see who wins and who gets
-destroyed. Your job has been to work on a simulation of
-the joust matches and compute _when_ there is a
-collision between the two robots and _which_ robot
-would win (the robot with the higher velocity), thus
-preventing the destruction of very expensive hardware.
+The snake-fill algorithm is a "fictional" algorithm
+where you must fill a given 2D board, with some minimal
+obstacles, with a "snake". This "snake" always starts
+in the top-left corner and can move in any directly-
+adjacent direction (north, east, south, west) one step
+at a time. This snake is also infinitely long: once it
+has moved over a tile on the board, the tile is
+"filled" with the snakes body. A snake cannot revisit a
+tile: it is unable to traverse a tile that it has
+already traversed. Essentially this is the same logic
+that controls a snake during a [game of
+snake](http://en.wikipedia.org/wiki/Snake_\(video_game\)).
 
-Let's define the actual behavior of the jousting event
-and how the robots work: the event takes place in a
-long hallway. Robots are placed initially in the center
-on the far left or far right of the hallway. When
-robots start, they choose a given starting angle, and
-keep moving forward until they hit a wall. Once a robot
-hits a wall, they stop movement, and rotate back to the
-angle in which they came into the wall. Basically
-robots "reflect" themselves off the wall at the angle
-in which they hit it. For every wall-hit event, the
-robot loses 10% of its speed, thus robots will slow
-down over time (but never stop until there is a
-collision).
+Your goal is to take a board definition, as described
+below, and then attempt to fill it as best as possible
+with a snake's body while respecting the snake's
+movement rules!
 
-[Check out these two images as examples of the
-described scene](http://imgur.com/a/NSzpY). Note that
-the actual robot geometry you want to simulate is a
-perfect circle, where the radius is 0.25 meters, or 25
-centimeters.
+_Author: nint22_
 
 # Formal Inputs & Outputs
 
 ## Input Description
 
-You will be given three separate lines of information:
-the first has data describing the hallway that the
-robots will joust in, and then the second and third
-represent information on the left and right robots,
-respectively.
-
-The first line will contain two integers: how long and
-wide the hallway is in meters. As an example, given the
-line "10 2", then you should know that the length of
-the hallway is 10 meters, while the width is just 2
-meters.
-
-The second and third lines also contain two integers:
-the first is the initial angle the robot will move
-towards (in degrees, as a signed number, where degree 0
-always points to the center of the hallway, negative
-points to the left, and positive points to the right).
-The second integer is the speed that the robot will
-initially move at, as defined in millimeters per
-second. As an example, given the two lines "45 5" and
-"-45 2", we know that the left robot will launch at 45
-degrees to its left, and that the second robot will
-launch 45 degrees to its left (really try to understand
-the angle standard we use). The left robot starts with
-an initial speed of 5 mm/s with the right robot
-starting at 2 mm/s. Assume that the robot radius will
-always be a quarter of a meter (25 centimeters).
+You will be first given two integers on a single line
+through standard input. They represent the width and
+height, respectively, of the board you are to attempt
+to fill. On the next line, you will be given an integer
+N, which represents the following N lines of obstacle
+definitions. Obstacles are pairs of integers that
+represent the X and Y coordinate, respectively, of an
+impassable (blocked) tile. Any impassable block does
+not allow snake movement over it. Note that the origin
+(0, 0) is in the top-left of the board, and positive X
+grows to the right while positive Y grows to the
+bottom. Thus, the biggest valid coordinate would be
+(Width - 1, Height - 1).
 
 ## Output Description
 
-Simply print "Left robot wins at X seconds." or "Right
-robot wins at X seconds." whenever the robots collide:
-make sure that the variable X is the number of seconds
-elapsed since start, and that the winning robot is
-whichever robot had the higher velocity. In case the
-robots never hit each other during a simulation, simply
-print "No winner found".
+First, print the number of tiles filled and then the
+number of tiles total: do _not_ count occluded
+(blocked) tiles. Remember, the more tiles filled by
+your snake, the more correct your solution is. Then,
+for each movement your snake has done in its attempt to
+fill the board, print the position is has moved to.
+This has to be listed in correct and logical order: one
+should be able to verify your solution by just running
+through this data again.
 
 # Sample Inputs & Outputs
 
 ## Sample Input
 
+[The following inputs generates this board
+configuration](http://i.imgur.com/WclGAwX.png). Note
+that the darker blocks are occluded (blocked) tiles.
+
 [code]
 
-    10 2
-    30 5
-    -10 4
+    10 10
+    5
+    3 0
+    3 1
+    3 2
+    4 1
+    5 1
     
 [/code]
 
 ## Sample Output
 
-_Please note that this is FAKE data; I 've yet to write
-my own simulation..._
+Note: The following is dummy-data: it is NOT the
+correct solution from the above sample input. Blame
+nint22: he is a gentlemen whom is short on time.
 
 [code]
 
-    Left robot wins at 32.5 seconds.
+    95 / 95
+    0 0
+    0 1
+    1 1
+    ... (See note)
     
 [/code]
 
-# Challenge Note
+# Challenge Input
 
-Make sure to keep your simulation as precise as
-possible! Any cool tricks with a focus on precision
-management will get bonus awards! This is also a very
-open-ended challenge question, so feel free to ask
-question and discuss in the comments section.
+None given
+
+## Challenge Input Solution
+
+None given
+
+# Note
+
+As per usual: this challenge may seem easy, but is
+quite complex as the movement rules limit any sort of
+"tricks" one could do for optimizations. Anyone who
+does some sort of graphical **and** animated version of
+their results get a +1 silver for their flair!
 

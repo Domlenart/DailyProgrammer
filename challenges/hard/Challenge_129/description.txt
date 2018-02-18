@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/1qply1/111513_challenge_129_hard_baking_pi/
 #  _(Hard)_ : Baking Pi
 
 [Pi (π)](http://en.wikipedia.org/wiki/Pi), the super-

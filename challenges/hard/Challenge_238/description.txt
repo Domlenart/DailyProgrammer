@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/3qtr01/20151030_challenge_238_hard_searching_a_dungeon/
 # Description
 
 Our hero is lost in a dungeon. You will be given ASCII

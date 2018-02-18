@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/ruixl/452012_challenge_36_intermediate/
 Because I want to watch the world burn, write a program
 that accepts a sentence as input and outputs the
 sentence in leetspeak.

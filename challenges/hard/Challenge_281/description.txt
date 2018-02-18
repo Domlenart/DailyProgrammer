@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/50s3ax/20160902_challenge_281_hard_minesweeper_solver/
 # Description
 
 In this challenge you will come up with an algorithm to

@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/69fxq8/20170505_challenge_313_hard_embedded_word_list/
 # Description
 
 A word is _embedded_ in a string if all of its letters

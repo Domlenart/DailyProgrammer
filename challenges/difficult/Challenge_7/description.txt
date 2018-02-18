@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/pr4vo/2152012_challenge_7_difficult/
 This challenge will focus on creating a bot that can
 log into Reddit!
 

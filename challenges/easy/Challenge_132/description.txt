@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/1hvh6u/070813_challenge_132_easy_greatest_common_divisor/
 #  _(Easy)_ : Greatest Common Divisor
 
 The [Greatest Common

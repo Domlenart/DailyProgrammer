@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/tb2h3/572012_challenge_49_intermediate/
 Your task today is to create a program that graphically
 plots some equation y = f(x), in some specified range
 of values for x.

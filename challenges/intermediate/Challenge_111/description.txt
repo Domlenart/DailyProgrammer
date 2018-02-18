@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/12qi97/1162012_challenge_111_intermediate_the_first/
 Find the lexicographically first valid sudoku. A valid
 sudoku consists of a 9x9 grid of the numbers 1-9 such
 that no number appears twice in any row or column, or

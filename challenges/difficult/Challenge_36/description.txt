@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/rujav/452012_challenge_36_difficult/
 Let's play Lingo! Click
 [here](http://www.youtube.com/watch?feature=player_detailpage&v=HzWh_G0DiGw#t=113s)
 for an idea of how the game works. Now write a program

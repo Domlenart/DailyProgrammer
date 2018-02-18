@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/2a3pzl/weekly_1_handling_console_input/
 # Weekly Topic #1
 
 Often part of the challenges is getting the data into

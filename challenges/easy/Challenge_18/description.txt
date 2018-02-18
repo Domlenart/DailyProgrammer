@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/qit0h/352012_challenge_18_easy/
 Often times in commercials, phone numbers contain
 letters so that they're easy to remember (e.g.
 1-800-VERIZON). Write a program that will convert a

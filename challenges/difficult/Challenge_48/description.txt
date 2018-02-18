@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/t78li/542012_challenge_48_difficult/
 Inspired by the divide and conquer problem posted on
 4/16/12, here's another problem that can be solved
 using divide and conquer. You are given a grid of

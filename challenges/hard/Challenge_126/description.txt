@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/1i65z6/071213_challenge_126_hard_notsonormal_triangle/
 #  _(Hard)_ : Not-So-Normal Triangle Search
 
 A three-dimensional triangle can be defined with three

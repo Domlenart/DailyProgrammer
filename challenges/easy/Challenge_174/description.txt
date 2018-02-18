@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/2cld8m/8042014_challenge_174_easy_thuemorse_sequences/
 # Description:
 
 The Thue-Morse sequence is a binary sequence (of 0s and

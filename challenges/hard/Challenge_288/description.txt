@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/58n2ca/20161021_challenge_288_hard_adjacent_numbers/
 # Description
 
 You start with an empty grid of size m-by-m. Your goal

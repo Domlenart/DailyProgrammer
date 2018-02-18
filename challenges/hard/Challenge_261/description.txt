@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/4dwk7b/20160408_challenge_261_hard_magic_square_dominoes/
 # Description
 
 An NxN magic square is an NxN grid of the numbers 1

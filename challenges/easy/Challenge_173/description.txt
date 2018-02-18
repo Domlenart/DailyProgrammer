@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/2bxntq/7282014_challenge_173_easy_unit_calculator/
 #  _(Easy): Unit Calculator
 
 You have a 30-centimetre ruler. Or is it a 11.8-inch

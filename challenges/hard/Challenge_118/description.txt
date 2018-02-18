@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/178vsz/012513_challenge_118_hard_alphabetizing_cipher/
 #  _(Hard)_ : Alphabetizing cipher
 
 This challenge is an optimization problem. Your

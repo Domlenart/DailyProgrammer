@@ -30,7 +30,8 @@ def find_new_challenges():
         if challenge_type and challenge_num:
             if not challenge_exists(challenge_type, challenge_num):
                 print('Found new {} challenge #{}'.format(challenge_type, challenge_num))
-                make_challenge_file(challenge_type, challenge_num, challenge_text=challenge.selftext_html)
+                make_challenge_file(diff=challenge_type, challenge_num=challenge_num,
+                                    challenge_text=challenge.selftext_html, link=challenge.url)
 
 
 def get_new_posts():
@@ -52,7 +53,8 @@ def extract_challenge_difficulty_and_number(post):
         challenge_type = challenge_type.pop()
         challenge_num = challenge_num.pop()
     else:
-        print('Found undefined challenge with title: {} \n{}\n'.format(post.title, post.url))
+        # print('Found undefined challenge with title: {} \n{}\n'.format(post.title, post.url))
+        pass
 
     return challenge_type, challenge_num
 
@@ -61,7 +63,7 @@ def challenge_exists(diff, challenge_num):
     return os.path.exists(os.path.join(CHALLENGES_FOLDER, diff, 'Challenge_'+challenge_num, 'description.txt'))
 
 
-def make_challenge_file(diff, challenge_num, challenge_text):
+def make_challenge_file(diff, challenge_num, challenge_text, link):
     textifier = html2text.HTML2Text(bodywidth=55)
     textifier.mark_code = True
     textifier.single_line_break = True
@@ -78,7 +80,7 @@ def make_challenge_file(diff, challenge_num, challenge_text):
     file_path = os.path.join(CHALLENGES_FOLDER, diff, 'Challenge_'+challenge_num, filename)
 
     with open(file_path, 'w+') as f:
-        f.writelines(wrapped_text)
+        f.writelines([link, '\n', wrapped_text])
 
 
 if __name__ == '__main__':

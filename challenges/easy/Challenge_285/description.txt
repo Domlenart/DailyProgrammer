@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/54lu54/20160926_challenge_285_easy_cross/
 We will make a binary byte oriented encoding of data
 that is self describing and extensible, and aims to
 solve the following problems:

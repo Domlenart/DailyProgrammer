@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/7t6fnc/20180126_challenge_348_hard_square_sum_chains/
 # Description
 
 For this challenge your task is, given a number N,

@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/13hmz3/11202012_challenge_113_easy_stringtype_checking/
 **Description:**
 
 You and a few co-workers are implementing a cool new

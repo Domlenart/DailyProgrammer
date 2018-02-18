@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/669u44/20170419_challenge_311_intermediate_ipv4_subnet/
 # Description
 
 In IPv4 networking, classless inter-domain routing

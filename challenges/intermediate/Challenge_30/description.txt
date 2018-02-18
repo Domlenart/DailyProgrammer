@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/red6f/3262012_challenge_30_intermediate/
 Most credit card numbers, and many other identification
 numbers including the Canadian Social Insurance Number,
 can be validated by an algorithm developed by Hans

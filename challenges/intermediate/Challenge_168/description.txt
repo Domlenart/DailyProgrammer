@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/291x9h/6252014_challenge_168_intermediate_block_count/
 # Description:
 
 In construction there comes a need to compute the

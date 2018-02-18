@@ -1,53 +1,79 @@
-#  _(Easy)_ : Sum Them Digits
+https://www.reddit.com/r/dailyprogrammer/comments/1dbpm9/042913_challenge_123_easy_newline_troubles/
+#  _(Easy)_ : New-Line Troubles
 
-As a crude form of hashing function, Lars wants to sum
-the digits of a number. Then he wants to sum the digits
-of the result, and repeat until he have only one digit
-left. He learnt that this is called the [digital
-root](http://en.wikipedia.org/wiki/Digital_root) of a
-number, but the Wikipedia article is just confusing
-him.
+A [newline
+character](http://en.wikipedia.org/wiki/Newline) is a
+special character in text for computers: though it is
+not a visual (e.g. renderable) character, it is a
+control character, informing the reader (whatever
+program that is) that the following text should be on a
+new line (hence "newline character").
 
-Can you help him implement this problem in your
-favourite programming language?
+As is the case with many computer standards, newline
+characters (and their rendering behavior) were not
+uniform across systems until much later. Some
+character-encoding standards (such as
+[ASCII](http://en.wikipedia.org/wiki/ASCII)) would
+encode the character as hex 0x0A (dec. 10), while
+[Unicode](http://en.wikipedia.org/wiki/Unicode) has a
+handful of subtly-different newline characters. Some
+systems even define newline characters as a set of
+characters: Windows-style new-line is done through two
+bytes: CR+LF (carriage-return and then the ASCII
+newline character).
 
-It is possible to treat the number as a string and work
-with each character at a time. This is pretty slow on
-big numbers, though, so Lars wants you to at least try
-solving it with only integer calculations (the [modulo
-operator](http://en.wikipedia.org/wiki/Modulo_operation)
-may prove to be useful!).
+Your goal is to read ASCII-encoding text files and
+"fix" them for the encoding you want. You may be given
+a Windows-style text file that you want to convert to
+UNIX-style, or vice-versa.
 
-_Author: TinyLebowski_
+_Author: nint22_
 
 # Formal Inputs & Outputs
 
 ## Input Description
 
-A positive integer, possibly 0.
+On standard input, you will be given two strings in
+quotes: the first will be the text file location, with
+the second being which format you want it output to.
+Note that this second string will always either be
+"Windows" or "Unix".
+
+Windows line endings will always be CR+LF (carriage-
+return and then newline), while Unix endings will
+always be just the LF (newline character).
 
 ## Output Description
 
-An integer between 0 and 9, the digital root of the
-input number.
+Simply echo the text file read back off onto standard
+output, with all line endings corrected.
 
 # Sample Inputs & Outputs
 
 ## Sample Input
 
-31337
+The following runs your program with the two arguments
+in the required quoted-strings.
+
+[code]
+
+    ./your_program.exe "/Users/nint22/WindowsFile.txt" "Unix"
+    
+[/code]
 
 ## Sample Output
 
-8, because 3+1+3+3+7=17 and 1+7=8
+The example output should be the contents of the
+WindowsFile.txt file, sans CR+LF characters, but just
+LF.
 
 # Challenge Input
 
-1073741824
+None required.
 
 ## Challenge Input Solution
 
-?
+None required.
 
 # Note
 

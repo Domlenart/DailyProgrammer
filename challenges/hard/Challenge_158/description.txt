@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/23b1pr/4182014_challenge_158_hard_intersecting_rectangles/
 #  _(Hard)_ : Intersecting Rectangles
 
 Computing the area of a [single

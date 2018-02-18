@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/6n8qb7/20170714_challenge_323_hard_difference_coverage/
 # Description
 
 Given a positive integer N, return a set of integers

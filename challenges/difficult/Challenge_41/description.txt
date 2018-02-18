@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/shqs1/4192012_challenge_41_difficult/
 The application you will be writing will be a caching
 server. This application will be monitoring a directory
 containing lots and lots of files (so you probably

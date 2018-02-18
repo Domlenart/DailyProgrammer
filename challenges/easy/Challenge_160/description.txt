@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/2451r5/4282014_challenge_160_easy_trigonometric_triangle/
 #  _(Easy)_ : Trigonometric Triangle Trouble, pt. 1
 
 A triangle on a flat plane is described by its angles

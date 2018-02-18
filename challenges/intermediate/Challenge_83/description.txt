@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/xdx4o/7302012_challenge_83_intermediate_indexed_file/
 For this challenge, write two programs:
 
   * 'index file1 file2 file3 ...' which creates an index of the words used in the given files (you can assume that they are plain text)

@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/u8jmi/5282012_challenge_58_easy/
 As computer programmers are well aware, it can be very
 useful to write numbers using numerical bases other
 than the familiar base 10 notation we use in everyday

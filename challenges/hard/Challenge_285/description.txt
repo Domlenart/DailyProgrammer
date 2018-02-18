@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/557wyy/20160930_challenge_285_hard_math_proofs/
 # Description
 
 Determine if a mathematical expression is logically

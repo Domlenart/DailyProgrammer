@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/2a9u0a/792014_challenge_170_intermediate_rummy_checker/
 #  _(Intermediate)_ : Rummy Checker
 
 [Rummy](http://en.wikipedia.org/wiki/Rummy) is another

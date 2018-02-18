@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/szz5y/4302012_challenge_46_easy/
 The population count of a bitstring is the number of
 set bits (1-bits) in the string. For instance, the
 population count of the number 23, which is represented

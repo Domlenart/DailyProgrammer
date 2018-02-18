@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/qivpg/352012_challenge_18_intermediate/
 Screen scraping involves interacting with the terminal
 display of a currently running program. There are
 commercial screen scraping applications available for

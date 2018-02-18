@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/uo1a3/662012_challenge_61_difficult/
 As is well known, the decimal expansion of sqrt(N) when
 N is not a perfect square, goes on forever and does not
 repeat. For instance, sqrt(8) starts out 2.82842712...

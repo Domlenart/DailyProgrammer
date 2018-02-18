@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/vsv47/6292012_challenge_70_difficult/
 In today's challenge we will be touching the topics:
 
   * [Strong Pseudoprime](http://mathworld.wolfram.com/StrongPseudoprime.html)

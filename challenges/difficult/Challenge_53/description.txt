@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/tpxqh/5162012_challenge_53_difficult/
 The set {2,3,5,7,11} has 32 subsets, and if you
 multiply the elements of each subset together, you get
 the "product" of that specific subset. So for instance,

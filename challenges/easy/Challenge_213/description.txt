@@ -1,79 +1,125 @@
+https://www.reddit.com/r/dailyprogrammer/comments/3jz8tt/20150907_challenge_213_easy_cellular_automata/
 # Description
 
-The HBO network show "Silicon Valley" has introduced a
-way to pronounce hex.
+The development of cellular automata (CA) systems is
+typically attributed to Stanisław Ulam and John von
+Neumann, who were both researchers at the Los Alamos
+National Laboratory in New Mexico in the 1940s. Ulam
+was studying the growth of crystals and von Neumann was
+imagining a world of self-replicating robots. That’s
+right, robots that build copies of themselves. Once we
+see some examples of CA visualized, it’ll be clear how
+one might imagine modeling crystal growth; the robots
+idea is perhaps less obvious. Consider the design of a
+robot as a pattern on a grid of cells (think of filling
+in some squares on a piece of graph paper). Now
+consider a set of simple rules that would allow that
+pattern to create copies of itself on that grid. This
+is essentially the process of a CA that exhibits
+behavior similar to biological reproduction and
+evolution. (Incidentally, von Neumann’s cells had
+twenty-nine possible states.) Von Neumann’s work in
+self-replication and CA is conceptually similar to what
+is probably the most famous cellular automaton: Conways
+“Game of Life,” sometimes seen as a screen saver. CA
+has been pushed very hard by Stephen Wolfram (e.g.
+Mathematica, Worlram Alpha, and "A New Kind of
+Science").
 
-[code]
+CA has a number of simple "rules" that define system
+behavior, like "If my neighbors are both active, I am
+inactive" and the like. The rules are all given
+numbers, but they're not sequential for historical
+reasons.
 
-    Kid: Here it is: Bit… soup. It’s like alphabet soup, BUT… it’s ones and zeros instead of letters.
-    Bachman: {silence}
-    Kid: ‘Cause it’s binary? You know, binary’s just ones and zeroes.
-    Bachman: Yeah, I know what binary is. Jesus Christ, I memorized the hexadecimal 
-                        times tables when I was fourteen writing machine code. Okay? Ask me 
-                        what nine times F is. It’s fleventy-five. I don’t need you to tell me what 
-                        binary is.
-    
-[/code]
+The subject rule for this challenge, Rule 90, is one of
+the simplest, a simple neighbor XOR. That is, in a 1
+dimensional CA system (e.g. a line), the next state for
+the cell in the middle of 3 is simply the result of the
+XOR of its left and right neighbors. E.g. "000" becomes
+~~" 1"~~ "0" in the next state, "100" becomes "1" in
+the next state and so on. You traverse the given line
+in windows of 3 cells and calculate the rule for the
+next iteration of the following row's center cell based
+on the current one while the two outer cells are
+influenced by their respective neighbors. Here are the
+rules showing the conversion from one set of cells to
+another:
 
-Not "eff five", fleventy. `0xF0` is now fleventy.
-Awesome. Above a full byte you add "bitey" to the name.
-The hexidecimal pronunciation rules:
-
-HEX PLACE VALUE | WORD  
----|---  
-0xA0 | “Atta”  
-0xB0 | “Bibbity”  
-0xC0 | “City”  
-0xD0 | “Dickety”  
-0xE0 | “Ebbity”  
-0xF0 | “Fleventy”  
-0xA000 | "Atta-bitey"  
-0xB000 | "Bibbity-bitey"  
-0xC000 | "City-bitey"  
-0xD000 | "Dickety-bitey"  
-0xE000 | "Ebbity-bitey"  
-0xF000 | "Fleventy-bitey"  
-Combinations like `0xABCD` are then spelled out "atta-
-bee bitey city-dee".
-
-For this challenge you'll be given some hex strings and
-asked to pronounce them.
-
+"111" | "101" | "010" | "000" | "110" | "100" | "011" |
+"001"  
+---|---|---|---|---|---|---|---  
+0 | 0 | 0 | 0 | 1 | 1 | 1 | 1  
 # Input Description
 
-You'll be given a list of hex values, one per line.
-Examples:
+You'll be given an input line as a series of 0s and 1s.
+Example:
 
 [code]
 
-    0xF5
-    0xB3
-    0xE4
-    0xBBBB
-    0xA0C9 
+    1101010
     
 [/code]
 
 # Output Description
 
-Your program should emit the pronounced hex. Examples
-from above:
+Your program should emit the states of the celular
+automata for 25 steps. Example from above, in this case
+I replaced 0 with a blank and a 1 with an X:
 
 [code]
 
-    0xF5 "fleventy-five"
-    0xB3 “bibbity-three”
-    0xE4 “ebbity-four”
-    0xBBBB “bibbity-bee bitey bibbity-bee”
-    0xA0C9 “atta-bitey city-nine”
+    xx x x
+    xx    x
+    xxx  x
+    x xxx x
+      x x
+     x   x
     
 [/code]
 
-# Credit
+# Challenge Input
 
-This challenge was suggested by
-[/u/metaconcept](/u/metaconcept). If you have a
-challenge idea, submit it to
-[/r/dailyprogrammer_ideas](/r/dailyprogrammer_ideas)
-and we just might use it.
+[code]
+
+    00000000000000000000000000000000000000000000000001000000000000000000000000000000000000000000000000
+    
+[/code]
+
+# Challenge Output
+
+I chose this input because it's one of the most well
+known, it yields a Serpinski triangle, a well known
+fractcal.
+
+[code]
+
+                                                 x
+                                                x x
+                                               x   x
+                                              x x x x
+                                             x       x
+                                            x x     x x
+                                           x   x   x   x
+                                          x x x x x x x x
+                                         x               x
+                                        x x             x x
+                                       x   x           x   x
+                                      x x x x         x x x x
+                                     x       x       x       x
+                                    x x     x x     x x     x x
+                                   x   x   x   x   x   x   x   x
+                                  x x x x x x x x x x x x x x x x
+                                 x                               x
+                                x x                             x x
+                               x   x                           x   x
+                              x x x x                         x x x x
+                             x       x                       x       x
+                            x x     x x                     x x     x x
+                           x   x   x   x                   x   x   x   x
+                          x x x x x x x x                 x x x x x x x x
+                         x               x               x               x
+                        x x             x x             x x             x x
+    
+[/code]
 

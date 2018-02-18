@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/t78m8/542012_challenge_48_easy/
 Take an array of integers and partition it so that all
 the even integers in the array precede all the odd
 integers in the array. Your solution must take linear

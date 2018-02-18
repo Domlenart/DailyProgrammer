@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/pp81n/2142012_challenge_6_intermediate/
 create a program that can remove all duplicate strings
 from a .txt. file. for example, "bdbdb" -> "bd"
 

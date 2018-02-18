@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/3pwf17/20151023_challenge_237_hard_takuzu_solver/
 # Description
 
 Takuzu is a simple and fairly unknown logic game

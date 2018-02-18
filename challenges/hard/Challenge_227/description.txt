@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/3h0uki/20150814_challenge_227_hard_adjacency_matrix/
 #  _(Hard)_ : Adjacency Matrix Generator
 
 We've often talked about adjacency matrices in

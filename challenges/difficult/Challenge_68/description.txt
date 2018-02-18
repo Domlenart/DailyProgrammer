@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/vfykg/6222012_challenge_68_difficult/
 Implement a program you can use to play the classic
 game of chess. White and black alternate inputting
 their moves using some form of [chess

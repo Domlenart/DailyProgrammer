@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/psf4n/2162012_challenge_8_difficult/
 Write a program that will take coordinates, and tell
 you the corresponding number in pascals triangle. For
 example:

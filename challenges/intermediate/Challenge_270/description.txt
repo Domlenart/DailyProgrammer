@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/4n6hc2/20160608_challenge_270_intermediate_generating/
 # Description
 
 Text generation algorithms exist in a wide variety of

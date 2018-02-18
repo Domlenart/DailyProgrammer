@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/2q2xnc/20141222_challenge_194_easy_destringification/
 #  **(Easy)** : Destringification
 
 Most programming languages understand the concept of

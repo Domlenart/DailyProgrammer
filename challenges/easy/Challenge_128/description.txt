@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/1fnutb/06413_challenge_128_easy_sumthedigits_part_ii/
 #  _(Easy)_ : Sum-the-Digits, Part II
 
 Given a well-formed (non-empty, fully valid) string of

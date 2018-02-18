@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/6yep7x/20170906_challenge_330_intermediate_check_writer/
 # Description:
 
 Given a dollar amount between 0.00 and 999,999.00,

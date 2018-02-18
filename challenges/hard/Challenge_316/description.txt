@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/6dgiig/20170526_challenge_316_hard_longest_uncrossed/
 # Description
 
 The longest uncrossed (or nonintersecting) knight's

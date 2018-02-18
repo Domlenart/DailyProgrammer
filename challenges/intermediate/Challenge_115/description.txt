@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/15wm48/132013_challenge_115_intermediate_sumpairings/
 #  _(Intermediate)_ : Sum-Parings
 
 Let the term "sum-pair" be a pair of integers A and B

@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/rzdft/482012_challenge_37_intermediate/
 Enter an integer for the number of iterations, and
 create a program that prints out a sierpinski triangle.
 

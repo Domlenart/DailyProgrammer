@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/6eublu/20170602_challenge_317_hard_poker_odds/
 # DESCRIPTION
 
 Playing Texas Hold'em is a game about weighing odds.

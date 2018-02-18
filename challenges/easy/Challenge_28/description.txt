@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/r59kk/3202012_challenge_28_easy/
 The array duplicates problem is when one integer is in
 an array for more than once.
 

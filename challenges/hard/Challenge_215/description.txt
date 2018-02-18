@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/36vuzm/20150522_challenge_215_hard_metaprogramming/
 # Description
 
 You're working in the devils language. Looser than PHP,

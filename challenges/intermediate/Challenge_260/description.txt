@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/4cktc3/20160330_challenge_260_intermediate_diagonal/
 # Description
 
 You have one rectangle composed of X*Y squares, with X

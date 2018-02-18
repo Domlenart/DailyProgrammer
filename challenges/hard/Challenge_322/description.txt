@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/6lti17/20170707_challenge_322_hard_static_http_server/
 # Description
 
 I'm willing to bet most of you are familiar with HTTP,

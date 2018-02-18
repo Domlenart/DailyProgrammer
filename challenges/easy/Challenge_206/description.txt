@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/2z68di/20150316_challenge_206_easy_recurrence_relations/
 #  _(Easy)_ : Recurrence Relations, part 1
 
 A recurrence relation is a mathematical construct for

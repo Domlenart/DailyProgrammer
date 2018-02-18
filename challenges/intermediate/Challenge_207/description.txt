@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/307m27/20150325_challenge_207_intermediate/
 Continuing with our bioinformatics theme today. If you
 like these sorts of problems, I encourage you to check
 out Project Rosalind (their site seems back up):

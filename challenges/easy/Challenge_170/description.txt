@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/29zut0/772014_challenge_170_easy_blackjack_checker/
 #  _(Easy)_ : Blackjack Checker
 
 [Blackjack](https://en.wikipedia.org/wiki/Blackjack) is

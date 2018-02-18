@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/tb2h7/572012_challenge_49_difficult/
 When you roll two regular six-sided dice, the total
 number of pips that can come up ranges from 2 (if both
 dice show 1) to 12 (if both dice show 6), but as all

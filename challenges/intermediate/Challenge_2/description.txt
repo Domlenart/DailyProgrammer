@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/pjbuj/intermediate_challenge_2/
 create a short text adventure that will call the user
 by their name. The text adventure should use standard
 text adventure commands ("l, n, s, e, i, etc.").

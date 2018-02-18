@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/s2na8/4102012_challenge_38_intermediate/
 [Reverse Polish
 Notation](http://en.wikipedia.org/wiki/Reverse_Polish_notation)(RPN)
 is a mathematical notation where every operator follows

@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/71pzlb/20170922_challenge_332_hard_skyscrapers_and_ceos/
 # Description
 
 Skyscraper is a logic puzzle similar to Sudoku.

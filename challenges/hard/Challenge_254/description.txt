@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/46km7n/20160219_challenge_254_hard_dna_shotgun_sequencing/
 # Description
 
 DNA sequences are made up of a 4 character alphabet -

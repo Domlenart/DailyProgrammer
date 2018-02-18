@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/qxv8h/3152012_challenge_25_difficult/
 Write a program that places N queens on an NxN
 chessboard such that no two queens are on the same row,
 column, or diagonal, and no queen is on either of the

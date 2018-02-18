@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/68oda5/20170501_challenge_313_easy_subset_sum/
 # Description
 
 Given a sorted list of distinct integers, write a

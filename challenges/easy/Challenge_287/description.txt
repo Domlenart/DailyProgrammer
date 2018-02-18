@@ -1,3 +1,4 @@
+https://www.reddit.com/r/dailyprogrammer/comments/56tbds/20161010_challenge_287_easy_kaprekars_routine/
 # Description
 
 Write a function that, given a 4-digit number, returns
